@@ -8,7 +8,35 @@ communities thrive.
 > first sessions of the working group. After that point this block
 > of text will be removed.
 
-## Two Phases
+## Context, goals, how to join
+
+### Quick explainer
+
+Open source projects and organizations are experiencing an increase in
+crisis events and stressful situations. I spent the last quarter of 2025
+researching publicly available data around this trend, and noticed that
+it started around 2014. I presented my research and recommendations at
+the 39th Chaos Congress, which also highlights the urgency of addressing
+these vulnerabilities:
+
+[How to keep Open Source open without leaving our communities open to threats](https://media.ccc.de/v/39c3-how-to-keep-open-source-open-without-leaving-our-communities-open-to-threats) 
+
+As a result of my findings, and the pervasiveness of them, I am also
+spinning up a working group so we can work together to address these
+issues. The two goals are:
+
+*   Develop and community-test communication norms for managing social
+    crises and security events.
+*   Create guidance on how and where to create responsible friction
+    within common governance and contributor patterns.
+
+For a deeper dive into how we will be accomplishing these, please read on.
+
+If you are interested in joining the working group, please reach out to Quintessence.
+Once you join, you can be added to the CONTRIBUTORS file.
+
+
+## Deeper Dive into the Two Phases
 
 There are two phases to this work. First to establish, and publish
 recommendations, for commuications standards for open source. The
