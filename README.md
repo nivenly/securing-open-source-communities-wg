@@ -1,6 +1,6 @@
-# Securing Open Source Communities Work Group
+# Securing Open Source Communities Working Group
 
-Hello and welcome to the work group! We are excited that you are
+Hello and welcome to the working group! We are excited that you are
 interested in what we're trying to accomplish to help open source
 communities thrive.
 
