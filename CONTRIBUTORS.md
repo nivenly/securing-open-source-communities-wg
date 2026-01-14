@@ -5,5 +5,5 @@
 * [@quintessence](https://github.com/quintessence)
 * [@wetneb](https://github.com/wetneb)
 * [@nia-e](https://github.com/nia-e/)
-* [@potiuk](htpss://github.com/potiuk)
+* [@potiuk](https://github.com/potiuk)
 * TBD
