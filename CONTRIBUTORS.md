@@ -14,4 +14,5 @@
 ### Volunteer support
 
 * [@CatBus](https://github.com/CatBusParade)
+* [@GANitak](https://github.com/GANitak)
 * TBD
