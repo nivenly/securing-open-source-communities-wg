@@ -11,6 +11,7 @@
 * [@gis21347](https://github.com/gis21347)
 * [dxld@debian.org](https://www.debian.org/intro/organization#community#:~:text=Daniel%20Gr%C3%B6ber) (GH: [@DanielG](https://github.com/DanielG###GiveUpGithub.org))
 * [@GANitak](https://github.com/GANitak)
+* [@ksen0](https://github.com/ksen0)
   
 ### Volunteer support
 
